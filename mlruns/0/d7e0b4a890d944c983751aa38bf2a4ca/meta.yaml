@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/ericklopez/Desktop/test_pytorch/mlruns/0/d7e0b4a890d944c983751aa38bf2a4ca/artifacts
+deleted_time: 1737995038264
+end_time: 1737994689931
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d7e0b4a890d944c983751aa38bf2a4ca
+run_name: aged-lark-88
+run_uuid: d7e0b4a890d944c983751aa38bf2a4ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737994689913
+status: 4
+tags: []
+user_id: ericklopez

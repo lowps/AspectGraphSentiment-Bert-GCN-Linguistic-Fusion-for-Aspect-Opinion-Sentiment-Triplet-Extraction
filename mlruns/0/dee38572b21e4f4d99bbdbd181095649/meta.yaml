@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/ericklopez/Desktop/test_pytorch/mlruns/0/dee38572b21e4f4d99bbdbd181095649/artifacts
+deleted_time: 1737995038264
+end_time: 1737994607481
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: dee38572b21e4f4d99bbdbd181095649
+run_name: placid-swan-190
+run_uuid: dee38572b21e4f4d99bbdbd181095649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737994607465
+status: 4
+tags: []
+user_id: ericklopez

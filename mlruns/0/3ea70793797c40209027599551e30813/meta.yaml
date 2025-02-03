@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ericklopez/Desktop/test_pytorch/mlruns/0/3ea70793797c40209027599551e30813/artifacts
+end_time: 1737994817909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ea70793797c40209027599551e30813
+run_name: mysterious-wren-288
+run_uuid: 3ea70793797c40209027599551e30813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737994817890
+status: 3
+tags: []
+user_id: ericklopez
