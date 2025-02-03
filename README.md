@@ -1,1 +1,1 @@
-# AspectGraphSentiment-Bert-GCN-Linguistic-Fusion-for-Aspect-Opinion-Sentiment-Triplet-Extraction
+# AspectGraphSentiment-BERT-GCN-Linguistic-Fusion-for-Aspect-Opinion-Sentiment-Triplet-Extraction
